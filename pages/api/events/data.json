@@ -1,0 +1,40 @@
+{
+    "events":[
+        {
+            "id":1,
+            "name":"Throwback Friday with FemiDev Band",
+            "slug":"throwback-friday-with-femidev-band",
+            "venue":"The Bowery Ballroom",
+            "address":"600, 13th Avenue, Kisumu",
+            "performers":"Dj Mongina",
+            "date":"November 15, 2021",
+            "time":"9:00 PM GMT+3",
+            "description":"feature dances, party anthems and nostalgic songs",
+            "image":"/images/samples/event1.jpg"
+        },
+        {
+            "id":2,
+            "name":"Dance festival Experience",
+            "slug":"dance-festival-experience",
+            "venue":"united Mall",
+            "address":"600, 13th Avenue, Kisumu",
+            "performers":"Dj Darlsy",
+            "date":"November 15, 2021",
+            "time":"9:00 PM GMT+3",
+            "description":"feature dances, party anthems and nostalgic songs",
+            "image":"/images/samples/event2.jpg"
+        },
+        {
+            "id":3,
+            "name":"Dance festival Experience",
+            "slug":"dance-festival-experience",
+            "venue":"united Mall",
+            "address":"600, 13th Avenue, Kisumu",
+            "performers":"Dj Darlsy",
+            "date":"November 15, 2021",
+            "time":"9:00 PM GMT+3",
+            "description":"feature dances, party anthems and nostalgic songs",
+            "image":"/images/samples/event3.jpg"
+        }
+    ]
+}
